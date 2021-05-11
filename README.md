@@ -24,7 +24,7 @@
 [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://rahullanjewar.me/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/rahullanjewar93)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lanjewar-rahul/)
-[![Visits Badge](https://badges.pufler.dev/visits/RahulLanjewar93/RahulLanjewar93?style=for-the-badge)](https://github.com/RahulLanjewar93
+[![Visits Badge](https://badges.pufler.dev/visits/RahulLanjewar93/RahulLanjewar93?style=for-the-badge)](https://github.com/RahulLanjewar93)
 
 </p>
 
@@ -34,8 +34,8 @@
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=RahulLanjewar93&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=RahulLanjewar93&">
+  <img src = "https://github-readme-stats.vercel.app/api?username=RahulLanjewar93&show_icons=true&count_private=true&theme=chartreuse-dark&hide=issues&line_height=32">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=RahulLanjewar93&theme=chartreuse-dark">
 </p>
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center"
