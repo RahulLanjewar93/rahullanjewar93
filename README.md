@@ -34,8 +34,8 @@
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=RahulLanjewar93&show_icons=true&count_private=true&theme=chartreuse-dark&hide=issues&line_height=32">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=RahulLanjewar93&theme=chartreuse-dark">
+  <img src = "https://github-readme-stats.vercel.app/api?username=RahulLanjewar93&show_icons=true&count_private=true&theme=default&hide=issues&line_height=32">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=RahulLanjewar93&theme=default">
 </p>
 
 <p align= "center">
