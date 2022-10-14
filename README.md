@@ -23,7 +23,7 @@
 [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://rahullanjewar.me/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/rahullanjewar93)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lanjewar-rahul/)
-[![Visits Badge](https://badges.pufler.dev/visits/RahulLanjewar93/RahulLanjewar93?style=for-the-badge)](https://github.com/RahulLanjewar93)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRahulLanjewar93&countColor=%23263759)
 
 </p>
 
